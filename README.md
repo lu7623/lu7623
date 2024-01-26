@@ -2,7 +2,7 @@
 <h3 align="left"> Passionate frontend developer from Saint Petersburg with a focus on HTML, CSS, JavaScript, and React.</h3>
  <ul align="left">
    <li> 🌱 I’m currently learning NodeJS</li>
-<li>📫 How to reach me: email lu7623@gmail.com, Telegram @lu_agulova</li>
+<li>📫 How to reach me: <a href="mailto:lu7623@gmail.com">Email</a>, <a href="https://t.me/lu_agulova">Telegram</a>,  <a href="https://www.linkedin.com/in/lu-agulova/">Linkedin</a> </li>
  </ul>
 
 <h3 align="left">Languages and Tools:</h3>

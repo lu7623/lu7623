@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋 I'm Lyubov Agulova </h2>
 <h3 align="left"> Passionate frontend developer from Saint Petersburg with a focus on HTML, CSS, JavaScript, and React.</h3>
  <ul align="left">
-   <li> 🌱 I’m currently learning interface development at Yandex Summer School</li>
+   <li> 🌱 Yandex Interface development school graduate</li>
+   <li> 🌱 I’m currently learning Node.js in The Rolling Scopes school</li>
 <li>📫 How to reach me: <a href="mailto:lu7623@gmail.com">Email</a>, <a href="https://t.me/lu_agulova">Telegram</a>,  <a href="https://www.linkedin.com/in/lu-agulova/">Linkedin</a> </li>
  </ul>
 
@@ -17,5 +18,9 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mobx/mobx-original.svg" width="40" height="40" alt="mobx"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></div>
+ <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="40" height="40"/>
+</div>

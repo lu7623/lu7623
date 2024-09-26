@@ -2,7 +2,7 @@
 <h3 align="left"> Passionate frontend developer from Saint Petersburg with a focus on HTML, CSS, JavaScript, and React.</h3>
  <ul align="left">
    <li> 🌱 Yandex Interface development school graduate</li>
-   <li> 🌱 I’m currently learning Node.js in The Rolling Scopes school</li>
+   <li> 🌱 I’m currently learning Node.js in <a href="https://github.com/rolling-scopes-school/tasks/tree/master/node">The Rolling Scopes school</a> </li>
 <li>📫 How to reach me: <a href="mailto:lu7623@gmail.com">Email</a>, <a href="https://t.me/lu_agulova">Telegram</a>,  <a href="https://www.linkedin.com/in/lu-agulova/">Linkedin</a> </li>
  </ul>
 

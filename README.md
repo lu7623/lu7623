@@ -1,9 +1,8 @@
 <h2 align="left">Hi 👋 I'm Lyubov Agulova </h2>
-<h3 align="left">Intern frontend developer at Yandex</h3>
+<h3 align="left">Passionate frontend developer with strong knowledge of modern web technologies </h3>
  <ul align="left">
-   <li> 🌱 Engaged in frontend infrastructure development for Yandex Delivery service </li>
-   <li> 🌱 Yandex Interface development school graduate</li>
-   <li> 🌱 I’m currently learning Node.js in <a href="https://github.com/rolling-scopes-school/tasks/tree/master/node">The Rolling Scopes school</a> </li>
+   <li> 🌱 Yandex Interface development school graduate (2024)</li>
+   <li> 🌱 Completed the Rolling Scopes cources <a href="https://app.rs.school/certificate/mj76xkj2">JS/Frontend</a>, <a href="https://app.rs.school/certificate/36iwcjw1">React</a> and <a href="https://app.rs.school/certificate/pdxsnsq5">Node JS</a> </li>
 <li>📫 How to reach me: <a href="mailto:lu7623@gmail.com">Email</a>, <a href="https://t.me/lu_agulova">Telegram</a>,  <a href="https://www.linkedin.com/in/lu-agulova/">Linkedin</a> </li>
  </ul>
 

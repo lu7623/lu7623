@@ -2,7 +2,7 @@
 <h3 align="left">Passionate frontend developer with strong knowledge of modern web technologies </h3>
  <ul align="left">
    <li> 🌱 Yandex Interface development school graduate (2024)</li>
-   <li> 🌱 Completed the Rolling Scopes cources <a href="https://app.rs.school/certificate/mj76xkj2">JS/Frontend</a>, <a href="https://app.rs.school/certificate/36iwcjw1">React</a> and <a href="https://app.rs.school/certificate/pdxsnsq5">Node JS</a> </li>
+   <li> 🌱 Completed the Rolling Scopes courses <a href="https://app.rs.school/certificate/mj76xkj2">JS/Frontend</a>, <a href="https://app.rs.school/certificate/36iwcjw1">React</a> and <a href="https://app.rs.school/certificate/pdxsnsq5">Node JS</a> </li>
 <li>📫 How to reach me: <a href="mailto:lu7623@gmail.com">Email</a>, <a href="https://t.me/lu_agulova">Telegram</a>,  <a href="https://www.linkedin.com/in/lu-agulova/">Linkedin</a> </li>
  </ul>
 

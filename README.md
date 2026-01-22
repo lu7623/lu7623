@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋 I'm Lyubov Agulova </h2>
-<h3 align="left">Passionate frontend developer with strong knowledge of modern web technologies </h3>
+<h3 align="left">Self-taught frontend developer working with React and TypeScript.</h3>
  <ul align="left">
-   <li> 🌱 Yandex Interface development school graduate (2024)</li>
-   <li> 🌱 Completed the Rolling Scopes courses <a href="https://app.rs.school/certificate/mj76xkj2">JS/Frontend</a>, <a href="https://app.rs.school/certificate/36iwcjw1">React</a> and <a href="https://app.rs.school/certificate/pdxsnsq5">Node JS</a> </li>
+   <li> 🌱 I'm on track with learning more about ML, DevOps and Software Architecture</li>
+   <li> 🌱 Curious about modern web technologies and computer science </li>
 <li>📫 How to reach me: <a href="mailto:lu7623@gmail.com">Email</a>, <a href="https://t.me/lu_agulova">Telegram</a>,  <a href="https://www.linkedin.com/in/lu-agulova/">Linkedin</a> </li>
  </ul>
 
